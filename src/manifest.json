@@ -1,0 +1,21 @@
+{
+    "short_name": "React App",
+    "name": "Create React App Sample",
+    "icons": [
+
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://w7.pngwing.com/pngs/370/210/png-transparent-computer-icons-check-mark-check-mark-icon-angle-logo-monochrome.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
